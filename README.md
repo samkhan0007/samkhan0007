@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sameer Khan</h1>
 
 <p align="center">
-   <h4 align="center">🎯 Data Scientist | Data Analyst | Java Full Stack Developer <h4/> <br/>
+   <h4 align="center">🎯 Data Scientist | Data Analyst | AI/ML Enthusiast | Java Full Stack Developer | Python | SQL | Power BI | Spring Boot <h4/> <br/>
 </p>
 
      
