@@ -1,163 +1,109 @@
-# 👋 Hi, I'm Sameer Khan  
+<h1 align="center">Hi there 👋, I'm Sameer Khan</h1>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<p align="center">
+   <h4 align="center">🎯 Data Scientist | Data Analyst | Java Full Stack Developer <h4/> <br/>
+</p>
+     
+## 🚀 About Me
 
+I am a technology enthusiast with a strong foundation in **Data Science, Data Analytics, and Java Full Stack Development**. I enjoy working with data to uncover meaningful business insights and building robust, scalable web applications that solve real-world problems. My passion lies in combining analytical thinking with software engineering to transform data-driven ideas into practical, impactful digital solutions.
 
-
-
-
-🎯 **Data Scientist | Data Analyst | Java Full Stack Developer**  
-📊 Turning data into insights & ideas into scalable applications  
-
-I’m a tech professional who works at the intersection of **Data Analytics** and **Full Stack Development**. I analyze complex datasets to uncover insights and also build scalable web applications that bring those insights into real-world systems.
-
----
-
-## 🧠 About Me
 
 - 🎓 MBA in Information Technology (Software Development)  
-- 💡 Strong in **Business Analytics, Data Visualization, and Backend Development**  
-- 🔍 Passionate about solving business problems using **data + technology**  
-- 🛠 Comfortable moving between **Python notebooks and Java APIs**
+- 📊 Skilled in Data Analysis, Visualization, and Business Intelligence  
+- 💻 Java Full Stack Developer with hands-on project experience  
+- 🔍 Passionate about combining **data + software** to drive smarter decisions  
 
 ---
 
-## 📊 Data Science & Analytics Stack
+## 🚀 Expertise
 
+Passionate about transforming data into meaningful insights and building scalable digital solutions, I specialize in **data analytics, business intelligence, and full stack development**. My work blends analytical thinking with practical implementation, allowing me to move seamlessly from data exploration to application development.
+
+With a strong foundation in **Python, SQL, Power BI, and Tableau**, I focus on uncovering patterns, measuring performance, and supporting data-driven decision-making. I enjoy working with structured and real-world datasets to create dashboards, reports, and analytical models that deliver measurable business value.
+
+On the development side, I bring hands-on experience in **Java, Spring Boot, React, and RESTful APIs**, building responsive, database-driven applications. I emphasize clean architecture, efficient database design, and scalable backend services while ensuring smooth user experiences on the frontend.
+
+I am particularly interested in roles where **data and software intersect** — using analytics to guide decisions and engineering to turn those insights into working systems. My approach combines problem-solving, continuous learning, and a commitment to delivering reliable, high-quality solutions.
+
+
+---
+
+## 🛠 Tech Stack
 <p align="left">
-  <img src="https://img.icons8.com/color/48/python--v1.png"/>
-  <img src="https://img.icons8.com/color/48/power-bi.png"/>
-  <img src="https://img.icons8.com/color/48/tableau-software.png"/>
-  <img src="https://img.icons8.com/fluency/48/sql.png"/>
-  <img src="https://img.icons8.com/color/48/jupyter.png"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PLSQL-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DBMS-4B8BBE?style=flat-square&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NoSQL-005571?style=flat-square&logo=apachecassandra&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
-**Languages & Analysis**
-- Python (Pandas, NumPy, EDA, Statistical Analysis)  
-- SQL (Data Extraction, Aggregation, Performance Analysis)
+## 📊 Featured Projects
 
-**Visualization & BI**
-- Power BI (Dashboards, KPI Reporting)  
-- Tableau (Interactive Visual Analytics)  
-- Advanced Excel (Pivot Tables, VLOOKUP, Dashboards)
+### 📺 Amazon Prime Content Analysis Dashboard
+- Analyzed 9,000+ records to discover performance trends  
+- Built KPI dashboards for business decision-making  
+- Tools: **Python, SQL, Power BI**
 
-**Data Skills**
-- Data Cleaning & Transformation  
-- ETL Concepts  
-- Business & Operational Analytics  
-- Performance Trend Analysis  
+### 🏠 Real Estate Market Analysis
+- Performed comparative analysis on 5,000+ property records  
+- Designed Tableau dashboards for pricing and trends  
+- Improved reporting efficiency by 35%
+
+### 🎓 ERP System for Student Management
+- Developed full-stack academic management system  
+- Attendance, fee tracking, academic reporting features  
+- Tech: **ReactJS, Django, SQLite**
+
+### 🎬 BookMe – Movie Ticket Booking System
+- Full-stack online ticket booking platform  
+- Secure authentication and seat booking flow  
+- Tech: **ReactJS, MongoDB, Firebase**
 
 ---
 
-## 💻 Java Full Stack Development Stack
+## 💼 Professional Experience
 
-<p align="left">
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
-  <img src="https://img.icons8.com/color/48/spring-logo.png"/>
-  <img src="https://img.icons8.com/color/48/react-native.png"/>
-  <img src="https://img.icons8.com/color/48/mongodb.png"/>
-  <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/firebase.png"/>
+**Java Full Stack Developer Intern**
+- Developed UI components using ReactJS  
+- Built REST APIs using Java & Spring Boot  
+- Worked with MongoDB and MySQL databases  
+- Participated in Agile development cycles  
+
+---
+
+## 🌐 Connect With Me
+
+📧 Email: sameerkhanofficial2401@gmail.com  
+💼 LinkedIn: *https://www.linkedin.com/in/sameer-khan-42b820292/*  
+💻 GitHub: *https://github.com/samkhan0007*  
+
+---
+
+<p align="center">
+  <em>Open to opportunities in Data Analytics, Data Science, and Full Stack Development</em>
 </p>
-
-**Frontend**
-- ReactJS  
-- JavaScript (ES6)  
-- HTML5, CSS3  
-
-**Backend**
-- Java  
-- Spring Boot  
-- RESTful APIs  
-
-**Databases**
-- MongoDB  
-- MySQL  
-- SQLite  
-
-**Tools & Platforms**
-- Git & GitHub  
-- VS Code, IntelliJ IDEA, Eclipse  
-- Firebase Authentication  
-- Linux  
-
----
-
-## 🚀 Featured Projects
-
-### 📺 Amazon Prime Content Analysis Dashboard  
-**Tools:** Power BI, Data Visualization  
-- Analyzed 9,000+ records to evaluate performance trends  
-- Built KPI dashboards for strategic content insights  
-- Designed reports for business decision-making  
-
-### 🏠 Real Estate Market Analysis  
-**Tools:** Tableau, SQL  
-- Analyzed 5,000+ property records across regions  
-- Created dashboards for pricing and performance comparison  
-- Improved analysis efficiency by 35% using optimized data modeling  
-
-### 🎓 ERP System for Student Management  
-**Tech:** ReactJS, Python/Django, SQLite  
-- Built a student management web app for academic operations  
-- Features: attendance, fee tracking, academic reporting  
-- Designed responsive UI and backend APIs  
-
-### 🎬 BookMe – Movie Ticket Booking System  
-**Tech:** ReactJS, MongoDB, Firebase Auth  
-- Full-stack movie ticket booking platform  
-- Seat selection, booking flow, authentication system  
-- REST API integration and database operations  
-
----
-
-## 🏢 Professional Experience
-
-**Java Full Stack Intern – SetTribe IT Solutions**  
-- Developed frontend features in ReactJS  
-- Built and consumed REST APIs using Java & Spring Boot  
-- Worked with MongoDB/MySQL for CRUD operations  
-- Contributed in Agile development cycles and SDLC processes  
-
----
-
-## 🎓 Education
-
-- MBA – Information Technology (Software Development)  
-- Bachelor of Science (General)
-
----
-
-## 📜 Certifications
-
-- Data Science & Analytics  
-- Java Full Stack Development  
-- Spring Boot & REST API Development  
-- ReactJS Frontend Development  
-- MongoDB & MySQL Training  
-
----
-
-## 📫 Let’s Connect
-
-- 💼 LinkedIn: *https://www.linkedin.com/in/sameer-khan-42b820292/*  
-- 💻 GitHub: *https://github.com/samkhan0007*  
-- 📧 Email: sameerkhanofficial2401@gmail.com  
-
----
-
-⭐ *Always open to collaborating on Data Science, Analytics, and Full Stack Development projects!*
