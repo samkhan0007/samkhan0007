@@ -3,6 +3,20 @@
 <p align="center">
    <h4 align="center">🎯 Data Scientist | Data Analyst | Java Full Stack Developer <h4/> <br/>
 </p>
+
+     
+## 🚀 About Me
+
+I am a technology enthusiast with a strong foundation in **Data Science, Data Analytics, and Java Full Stack Development**. I enjoy working with data to uncover meaningful business insights and building robust, scalable web applications that solve real-world problems. My passion lies in combining analytical thinking with software engineering to transform data-driven ideas into practical, impactful digital solutions.
+
+
+- 🎓 MBA in Information Technology (Software Development)  
+- 📊 Skilled in Data Analysis, Visualization, and Business Intelligence  
+- 💻 Java Full Stack Developer with hands-on project experience  
+- 🔍 Passionate about combining **data + software** to drive smarter decisions  
+
+---
+
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
@@ -34,18 +48,6 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
-     
-## 🚀 About Me
-
-I am a technology enthusiast with a strong foundation in **Data Science, Data Analytics, and Java Full Stack Development**. I enjoy working with data to uncover meaningful business insights and building robust, scalable web applications that solve real-world problems. My passion lies in combining analytical thinking with software engineering to transform data-driven ideas into practical, impactful digital solutions.
-
-
-- 🎓 MBA in Information Technology (Software Development)  
-- 📊 Skilled in Data Analysis, Visualization, and Business Intelligence  
-- 💻 Java Full Stack Developer with hands-on project experience  
-- 🔍 Passionate about combining **data + software** to drive smarter decisions  
-
----
 
 ## 🚀 Expertise
 
