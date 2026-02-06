@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Sameer Khan</h1>
+<h1 align="center">Hi 👋, I'm Sameer Khan</h1>
 
 <p align="center">
    <h4 align="center">🎯 Data Scientist | Data Analyst | Java Full Stack Developer <h4/> <br/>
