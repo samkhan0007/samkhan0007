@@ -63,29 +63,6 @@ I am particularly interested in roles where **data and software intersect** — 
 
 ---
 
-## 📊 Featured Projects
-
-### 📺 Amazon Prime Content Analysis Dashboard
-- Analyzed 9,000+ records to discover performance trends  
-- Built KPI dashboards for business decision-making  
-- Tools: **Python, SQL, Power BI**
-
-### 🏠 Real Estate Market Analysis
-- Performed comparative analysis on 5,000+ property records  
-- Designed Tableau dashboards for pricing and trends  
-- Improved reporting efficiency by 35%
-
-### 🎓 ERP System for Student Management
-- Developed full-stack academic management system  
-- Attendance, fee tracking, academic reporting features  
-- Tech: **ReactJS, Django, SQLite**
-
-### 🎬 BookMe – Movie Ticket Booking System
-- Full-stack online ticket booking platform  
-- Secure authentication and seat booking flow  
-- Tech: **ReactJS, MongoDB, Firebase**
-
----
 
 ## 💼 Professional Experience
 
