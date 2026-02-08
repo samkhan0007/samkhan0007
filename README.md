@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sameer Khan</h1>
-
 <p align="center">
    <h4 align="center">🎯 Data Scientist | Data Analyst | AI/ML Enthusiast | Java Full Stack Developer | Python | SQL | Power BI | Spring Boot <h4/> <br/>
-</p>
-
-     
+</p>    
 ## 🚀 About Me
 
 I am a technology enthusiast with a strong foundation in **Data Science, Data Analytics, and Java Full Stack Development**. I enjoy working with data to uncover meaningful business insights and building robust, scalable web applications that solve real-world problems. My passion lies in combining analytical thinking with software engineering to transform data-driven ideas into practical, impactful digital solutions.
@@ -14,9 +11,6 @@ I am a technology enthusiast with a strong foundation in **Data Science, Data An
 - 📊 Skilled in Data Analysis, Visualization, and Business Intelligence  
 - 💻 Java Full Stack Developer with hands-on project experience  
 - 🔍 Passionate about combining **data + software** to drive smarter decisions  
-
----
-
 ## 🛠 Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
